@@ -1,6 +1,6 @@
 # Bibiana Cristòfol Amat
 
-Passionate full-stack junior developer with a background in analytical and client management roles. I am interested in agile methodologies, test driven development and object oriented design. I am looking for a junior developer role in a fast paced environment where I can continue to learn an develop my code craftmanship.
+Passionate full-stack junior developer with a background in analytical and client management roles. I am interested in agile methodologies, test driven development and object oriented design. I am looking for a junior developer role in a fast paced environment where I can continue to learn and develop my code craftmanship.
 
 ## Skills 
 
@@ -9,17 +9,17 @@ Passionate full-stack junior developer with a background in analytical and clien
 Friendly and approachable, possessing excellent interpersonal skills.
 
 - More than six years of experience in jobs with direct and daily contact with clients.
-- Stablish good relations with my clients that made a positive impact to the business. 
+- Establish good relations with my clients that made a positive impact to the business. 
 
 > *Bibiana has been my contact person in Stora Enso, one of our main paper suppliers, for two and a half years. She's always been dependable, and helpful with late notice requests. She takes her job very seriously while at the same time she is extremely friendly and a pleasure to work with. Aitor Estebaranz Tejero* via [linkedIn](https://www.linkedin.com/profile/public-profile-settings?trk=prof-edit-edit-public_profile)
 
 ### Programming
 
-Full Stack Developer with knowledge in Ruby (Sinatra and Rails) and Javascript (Nodejs).
+Full Stack Developer with hands-on experience with Ruby and Javascript.
 
 - Makers Academy: 12 weeks immersive web development bootcamp with introduction to technologies such as, Ruby, Ruby on Rails, Sinatra, JavaScript, jQuery, Nodejs, AJAX Postgres SQL and Datamapper.
 - SOLID principles incorporated into domain design.
-- Learned good coding techniques and best practices, test-driven work and pair programming.
+- Learned good coding techniques and best practices, test-driven development and pair programming.
 - Version control with git.
 - API integration: Twilio, Twitter, Github, Google Maps.
 - Agile Methodologies.
@@ -28,13 +28,14 @@ Full Stack Developer with knowledge in Ruby (Sinatra and Rails) and Javascript (
 
 Through my time at Makers Academy I have learnt test and behaviour driven development in both Ruby and JavaScript.
 
-- All my projects have a test coverage of 90-100%
+- Rspec, Jasmine, Cucumber, Capybara, Casperjs.
+- All my projects have a test coverage of 90-100%.
 
-### Communication and Team Work
+### Communication and Teamwork
 
 Work confidently within a group.
 
-- At Makers Academy, we had two team projects that we had to deliver in a short period. Good communication and team work were key skills to be able to achieve good results.
+- At Makers Academy, we had two team projects in which we had to deliver in a short period. Good communication and teamwork were key skills to be able to achieve good results.
 
 ### Problem Solving
 
@@ -56,7 +57,7 @@ Highly organised and efficient, able to analyse data, produce reports and implem
 Adapt successfully to changing situations and environments.
 
 - I have lived in three different countries: Spain, Belgium and UK.
-- I have worked in very different environtments and with people of different cultures.
+- I have worked in a variety of culturally diverse environments.
 
 ### Multilingual
 
@@ -80,16 +81,7 @@ Fluent in English, Spanish and Catalan. Proficient in French and good working kn
 
 ### Makers Academy - December 2014 to March 2015
 
-12 weeks immersive web development bootcamp.
-
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- Aiming for minimal technical debt
-- Pair programming and team work
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js
-- Rspec, Jasmine, Cucumber, Capybara, Casperjs
+- 12 weeks immersive web development bootcamp.
 
 ### Escola Superior de Comerç Internacional - University Pompeu Fabra (Spain) - 1999 to 2004
 
