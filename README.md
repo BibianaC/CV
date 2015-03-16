@@ -10,8 +10,8 @@ Friendly and approachable, possessing excellent interpersonal skills.
 
 - More than six years of experience in jobs with direct and daily contact with clients.
 - Stablish good relations with my clients that made a positive impact to the business. 
-- What my clients say about me: 
-    *Bibiana has been my contact person in Stora Enso, one of our main paper suppliers, for two and a half years. She's always been dependable, and helpful with late notice requests. She takes her job very seriously while at the same time she is extremely friendly and a pleasure to work with. Aitor Estebaranz Tejero* via [linkedIn](https://www.linkedin.com/profile/public-profile-settings?trk=prof-edit-edit-public_profile)
+
+> *Bibiana has been my contact person in Stora Enso, one of our main paper suppliers, for two and a half years. She's always been dependable, and helpful with late notice requests. She takes her job very seriously while at the same time she is extremely friendly and a pleasure to work with. Aitor Estebaranz Tejero* via [linkedIn](https://www.linkedin.com/profile/public-profile-settings?trk=prof-edit-edit-public_profile)
 
 ### Programming
 
