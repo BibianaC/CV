@@ -76,11 +76,11 @@ Fluent in English, Spanish and Catalan. Proficient in French and good working kn
 
 ## Education
 
-### Makers Academy - December 2014 to March 2015
+##### Makers Academy - December 2014 to March 2015
 
 - 12 weeks immersive web development bootcamp.
 
-### Escola Superior de Comerç Internacional - University Pompeu Fabra (Spain) - 1999 to 2004
+##### Escola Superior de Comerç Internacional - University Pompeu Fabra (Spain) - 1999 to 2004
 
 - Bachelor in International Business.
 
