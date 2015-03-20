@@ -76,7 +76,7 @@ Fluent in English, Spanish and Catalan. Proficient in French and good working kn
 
 ## Education
 
-### [Makers Academy](http://www.makersacademy.com/) - December 2014 to March 2015
+### Makers Academy - December 2014 to March 2015
 
 - 12 weeks immersive web development bootcamp.
 
