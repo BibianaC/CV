@@ -46,7 +46,7 @@ Manage time effectively, prioritising tasks and able to work to deadlines. Able 
 
 - As a financial analyst, I was working at the European headquarters, analising huge amounts of data to evaluate and understand the changes in sales and margins. I was working with deadlines and my reports were sent to the World headquarters.
 
-### Flexibility
+### Flexible
 
 Adapt successfully to changing situations and environments.
 
