@@ -2,6 +2,13 @@
 
 Vigorous full-stack junior developer with a background in analytical and client management roles. Passionate about agile methodologies, test driven development and object oriented design. I am looking for a junior developer role in a fast paced environment where I can continue to learn and develop my code craftmanship.
 
+## Selected Portfolio
+
+| Project Repo | Description |
+| ------------ | ----------- |
+| [Snow Angels](https://github.com/BibianaC/snow-angels) | MA final project for a small charity in Horsell (Surrey) |
+| [SmartTwits](https://github.com/BibianaC/smart_twits) | Team project on week 8. SmartTwits aims to provide users with information about currently trending tweets with a view to shedding a little light on the context of the trend. Build on Ruby and Sinatra | [Bowling Scorecard](https://github.com/BibianaC/bowling_scorecard) | Week 5 challenge to count and sum the scores of a bowling game of one player. Build in Javascript and JQuery. | [Rock Paper Scissors](https://github.com/BibianaC/ronin_badge_test) | Week 3 challenge to provide a Rock, Paper, Scissors game for the Makers Academy Marketing Array ( MAMA ). Build in Ruby and Sinatra |
+
 ## Skills 
 
 ### Software Development
