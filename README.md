@@ -1,6 +1,6 @@
 # Bibiana Cristòfol Amat
 
-Vigorous full-stack junior developer with a background in analytical and client management roles. Passionate about agile methodologies, test driven development and object oriented design. I am looking for a junior developer role in a fast paced environment where I can continue to learn and develop my code craftsmanship.
+Enthusiastic full-stack junior developer with a background in analytical and client management roles. Passionate about agile methodologies, test driven development and object oriented design. I am looking for a junior developer role in a fast paced environment where I can continue to learn and develop my code craftsmanship.
 
 ## Selected Portfolio
 
