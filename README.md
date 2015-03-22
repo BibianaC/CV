@@ -17,7 +17,7 @@ Enthusiastic full-stack junior developer with a background in analytical and cli
 
 Full-stack developer with hands-on experience with Ruby and Javascript.
 
-- [Makers Academy](http://www.makersacademy.com/): 12 weeks immersive web development bootcamp with introduction to technologies such as, Ruby, Ruby on Rails, Sinatra, JavaScript, jQuery, Nodejs, AJAX Postgres SQL and Datamapper.
+- [Makers Academy](http://www.makersacademy.com/): 12 weeks immersive web development bootcamp with introduction to technologies such as Ruby, Ruby on Rails, Sinatra, JavaScript, jQuery, Nodejs, AJAX PostgreSQL and Datamapper.
 - [SOLID](http://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29) principles incorporated into domain design.
 - Version control with git.
 - API integration: Twilio, Twitter, Github, Google Maps.
