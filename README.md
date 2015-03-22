@@ -6,10 +6,10 @@ Vigorous full-stack junior developer with a background in analytical and client 
 
 | Project Repo | Description |
 | ------------ | ----------- |
-| [Snow Angels](https://github.com/BibianaC/snow-angels) | MA final team project for a small charity in Horsell (Surrey). Build on Rails 4, using the Google and Twilio API |
-| [SmartTwits](https://github.com/BibianaC/smart_twits) | Team project on week 8. SmartTwits aims to provide users with information about currently trending tweets with a view to shedding a little light on the context of the trend. Build on the Twitter API in Ruby and Sinatra. |
-| [Bowling Scorecard](https://github.com/BibianaC/bowling_scorecard) | Week 5 challenge to count and sum the scores of a bowling game of one player. Build in Javascript and JQuery. |
-| [Rock Paper Scissors](https://github.com/BibianaC/ronin_badge_test) | Week 3 challenge to provide a Rock, Paper, Scissors game for the Makers Academy Marketing Array ( MAMA ). Build in Ruby and Sinatra. Deployed on [Heroku](https://my-rock-paper-scissors.herokuapp.com/) |
+| [Snow Angels](https://github.com/BibianaC/snow-angels) | Makers Academy final team project for a small charity in Horsell (Surrey). Built on Rails 4, using the Google and Twilio APIs |
+| [SmartTwits](https://github.com/BibianaC/smart_twits) | Team project on week 8. SmartTwits aims to provide users with information about currently trending tweets with a view to shedding a little light on the context of the trend. Built in Ruby, using Sinatra and the Twitter API. |
+| [Bowling Scorecard](https://github.com/BibianaC/bowling_scorecard) | Week 5 challenge to count and sum the scores of a bowling game of one player. Built in Javascript and JQuery. |
+| [Rock Paper Scissors](https://github.com/BibianaC/ronin_badge_test) | Week 3 challenge to provide a Rock, Paper, Scissors game for the Makers Academy Marketing Array (MAMA). Built in Ruby and Sinatra. Deployed on [Heroku](https://my-rock-paper-scissors.herokuapp.com/) |
 
 ## Skills 
 
@@ -18,8 +18,7 @@ Vigorous full-stack junior developer with a background in analytical and client 
 Full-stack developer with hands-on experience with Ruby and Javascript.
 
 - [Makers Academy](http://www.makersacademy.com/): 12 weeks immersive web development bootcamp with introduction to technologies such as, Ruby, Ruby on Rails, Sinatra, JavaScript, jQuery, Nodejs, AJAX Postgres SQL and Datamapper.
-- SOLID principles incorporated into domain design.
-- Learned good coding techniques and best practices, test-driven development and pair programming.
+- [SOLID](http://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29) principles incorporated into domain design.
 - Version control with git.
 - API integration: Twilio, Twitter, Github, Google Maps.
 - Agile methodologies.
@@ -53,16 +52,16 @@ Work confidently within a group.
 
 Manage time effectively, prioritising tasks and able to work to deadlines. Able to analyse data, produce reports and implement project plans to reflect key business development findings.
 
-- As a financial analyst, I was working at the European headquarters, analising huge amounts of data to evaluate and understand the changes in sales and margins. I was working with deadlines and my reports were sent to the World headquarters.
+- As a financial analyst, I was working at the European headquarters, analysing huge amounts of data to evaluate and understand the changes in sales and margins. I was working with deadlines and my reports were sent to the World headquarters.
 
 ### Flexible
 
 Adapt successfully to changing situations and environments.
 
-- I have lived in three different countries: Spain, Belgium and UK.
-- I have worked in a variety of culturally diverse environments.
-  - For 3 years, I worked in a department with 30 persons of 13 different nationalities.
-- For 5 years, I worked in a company across four different departments and two different countries.
+- Lived in three different countries: Spain, Belgium and UK.
+- Worked in a variety of culturally diverse environments.
+  - For three years, I worked in a department with 30 persons of 13 different nationalities.
+- Worked in a company, for five years, across four different departments and two different countries.
 
 ### Multilingual
 
