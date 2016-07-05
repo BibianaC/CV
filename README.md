@@ -38,15 +38,15 @@ Friendly and approachable, possessing excellent interpersonal skills.
 - More than six years of experience in jobs with direct and daily contact with clients.
 - Establish good relations with my clients that made a positive impact to the business. 
 
-> *Bibiana has been my contact person in Stora Enso, one of our main paper suppliers, for two and a half years. She's always been dependable, and helpful with late notice requests. She takes her job very seriously while at the same time she is extremely friendly and a pleasure to work with. Aitor Estebaranz Tejero* via [LinkedIn](https://www.linkedin.com/profile/public-profile-settings?trk=prof-edit-edit-public_profile)
+> *Bibiana has been my contact person in Stora Enso, one of our main paper suppliers, for two and a half years. She's always been dependable, and helpful with late notice requests. She takes her job very seriously while at the same time she is extremely friendly and a pleasure to work with. Aitor Estebaranz Tejero* via [LinkedIn](https://uk.linkedin.com/in/bibiana-cristofol-336ab639)
 
 ### Communication and Teamwork
 
 Work confidently within a group.
 
-> *I had the opportunity to work with Bibiana for a few years. She has very good teamwork skills and she is always efficient at work. Francesc Vila* via [LinkedIn](https://www.linkedin.com/profile/public-profile-settings?trk=prof-edit-edit-public_profile)
+> *I had the opportunity to work with Bibiana for a few years. She has very good teamwork skills and she is always efficient at work. Francesc Vila* via [LinkedIn](https://uk.linkedin.com/in/bibiana-cristofol-336ab639)
 
-> *Bibiana is a very reliable colleague and working with her was a very enjoyable experience. She has an eye for detail and keeps calm under pressure. Bibiana is also a down to earth person and eager to help a colleague when needed. Rosario Gómez* via [LinkedIn](https://www.linkedin.com/profile/public-profile-settings?trk=prof-edit-edit-public_profile)
+> *Bibiana is a very reliable colleague and working with her was a very enjoyable experience. She has an eye for detail and keeps calm under pressure. Bibiana is also a down to earth person and eager to help a colleague when needed. Rosario Gómez* via [LinkedIn](https://uk.linkedin.com/in/bibiana-cristofol-336ab639)
 
 ### Analytical, Conceptual Thinking and Time Management.
 
