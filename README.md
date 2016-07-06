@@ -2,34 +2,26 @@
 
 Enthusiastic software developer with a background in analytical and client management roles. Passionate about agile methodologies, test driven development and object oriented design. I am looking for a software developer role in a fast paced environment where I can continue to learn and develop my code craftsmanship.
 
-## Selected Portfolio
-
-| Project Repo | Description |
-| ------------ | ----------- |
-| [Snow Angels](https://github.com/BibianaC/snow-angels) | Makers Academy final team project for a small charity in Horsell (Surrey). Built on Rails 4, using the Google and Twilio APIs |
-| [SmartTwits](https://github.com/BibianaC/smart_twits) | Team project on week 8. SmartTwits aims to provide users with information about currently trending tweets with a view to shedding a little light on the context of the trend. Built in Ruby, using Sinatra and the Twitter API. |
-| [Bowling Scorecard](https://github.com/BibianaC/bowling_scorecard) | Week 5 challenge to count and sum the scores of a bowling game of one player. Built in Javascript and JQuery. |
-| [Rock Paper Scissors](https://github.com/BibianaC/ronin_badge_test) | Week 3 challenge to provide a Rock, Paper, Scissors game for the Makers Academy Marketing Array (MAMA). Built in Ruby and Sinatra. Deployed on [Heroku](https://my-rock-paper-scissors.herokuapp.com/) |
-
 ## Skills 
 
 ### Software Development
 
 Software developer with hands-on experience with Python, Ruby and Javascript.
 
-- [Makers Academy](http://www.makersacademy.com/): 12 weeks immersive web development bootcamp with introduction to technologies such as Ruby, Ruby on Rails, Sinatra, JavaScript, jQuery, Nodejs, AJAX PostgreSQL and Datamapper.
-- [SOLID](http://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29) principles incorporated into domain design.
-- Version control with git.
-- API integration: Twilio, Twitter, Github, Google Maps.
-- Agile methodologies.
+- Frameworks: Sinatra, Ruby on Rails, Flask, Django.
+- Python libraries: Pandas (data manipulation), Bokeh (graphics) and many others.
+- Version control with git and Github.
+- API integration: Twilio, Twitter, Github, Google Maps, Mailchimp, Elasticsearch.
+- Agile methodologies, JIRA.
+- Continuous delivery and tracking: Codeship, Sentry.
 - Pair programming.
 
 ### Test and Behaviour Driven Development
 
-Through my time at Makers Academy I have learnt test and behaviour driven development in both Ruby and JavaScript.
+Through my time at Tempus Energy and Makers Academy I have learnt test and behaviour driven development in Python, Ruby and JavaScript.
 
-- Rspec, Jasmine, Cucumber, Capybara, Casperjs.
-- All my projects have a test coverage of 90-100%.
+- Pytest, Rspec, Jasmine, Cucumber, Capybara, Casperjs.
+- All my projects have a high test coverage.
 
 ### Client Management
 
@@ -82,11 +74,20 @@ Fluent in English, Spanish and Catalan. Proficient in French and good working kn
   - Accounts Receivable (June 2005 - December 2007).
   - Sarbanes Oxley Auditor (June 2006 - April 2010).
 
+## Selected Makers Academy Portfolio
+
+| Project Repo | Description |
+| ------------ | ----------- |
+| [Snow Angels](https://github.com/BibianaC/snow-angels) | Makers Academy final team project for a small charity in Horsell (Surrey). Built on Rails 4, using the Google and Twilio APIs |
+| [SmartTwits](https://github.com/BibianaC/smart_twits) | Team project on week 8. SmartTwits aims to provide users with information about currently trending tweets with a view to shedding a little light on the context of the trend. Built in Ruby, using Sinatra and the Twitter API. |
+| [Bowling Scorecard](https://github.com/BibianaC/bowling_scorecard) | Week 5 challenge to count and sum the scores of a bowling game of one player. Built in Javascript and JQuery. |
+| [Rock Paper Scissors](https://github.com/BibianaC/ronin_badge_test) | Week 3 challenge to provide a Rock, Paper, Scissors game for the Makers Academy Marketing Array (MAMA). Built in Ruby and Sinatra. Deployed on [Heroku](https://my-rock-paper-scissors.herokuapp.com/) |
+
 ## Education
 
-##### Makers Academy - December 2014 to March 2015
+##### [Makers Academy](http://www.makersacademy.com/) - December 2014 to March 2015
 
-- 12 weeks immersive web development bootcamp.
+- 12 weeks immersive web development bootcamp with introduction to technologies such as Ruby, Ruby on Rails, Sinatra, JavaScript, jQuery, Nodejs, AJAX, PostgreSQL and Datamapper.
 
 ##### Escola Superior de Comerç Internacional - University Pompeu Fabra (Spain) - 1999 to 2004
 
