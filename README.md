@@ -1,6 +1,6 @@
 # Bibiana Cristòfol Amat
 
-Enthusiastic full-stack junior developer with a background in analytical and client management roles. Passionate about agile methodologies, test driven development and object oriented design. I am looking for a junior developer role in a fast paced environment where I can continue to learn and develop my code craftsmanship.
+Enthusiastic software developer with a background in analytical and client management roles. Passionate about agile methodologies, test driven development and object oriented design. I am looking for a software developer role in a fast paced environment where I can continue to learn and develop my code craftsmanship.
 
 ## Selected Portfolio
 
@@ -15,7 +15,7 @@ Enthusiastic full-stack junior developer with a background in analytical and cli
 
 ### Software Development
 
-Full-stack developer with hands-on experience with Ruby and Javascript.
+Software developer with hands-on experience with Python, Ruby and Javascript.
 
 - [Makers Academy](http://www.makersacademy.com/): 12 weeks immersive web development bootcamp with introduction to technologies such as Ruby, Ruby on Rails, Sinatra, JavaScript, jQuery, Nodejs, AJAX PostgreSQL and Datamapper.
 - [SOLID](http://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29) principles incorporated into domain design.
@@ -69,11 +69,11 @@ Fluent in English, Spanish and Catalan. Proficient in French and good working kn
 
 ## Work Experience
 
+- Software Developer at Tempus Energy (June 2015 - today).
 - Digital Project Manager Intern at Bump & Bliss (September 2014 - November 2014).
 - Order Administrator at Infinigate UK (April 2014 - August 2014).
 - Sales Order Processor and Business Analyst Support at Mitsubishi Heavy Industries 
   Air Conditioning Europe (August 2013 - April 2014).
-- Moved to London (UK).
 - Sales Coordinator at Stora Enso (April 2010 - February 2013).
 - Gates Corporation
   - Customer Service and Logistics (September 2009 - April 2010).
