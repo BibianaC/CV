@@ -50,7 +50,7 @@ Manage time effectively, prioritising tasks and able to work to deadlines. Able 
 
 Adapt successfully to changing situations and environments.
 
-- Lived in three different countries: Spain, Belgium and UK.
+- Lived and worked in three different countries: Spain, Belgium and UK.
 - Worked in a variety of culturally diverse environments.
   - For three years, I worked in a department with 30 persons of 13 different nationalities.
 - Worked in a company, for five years, across four different departments and two different countries.
@@ -74,7 +74,7 @@ Fluent in English, Spanish and Catalan. Proficient in French and good working kn
   - Accounts Receivable (June 2005 - December 2007).
   - Sarbanes Oxley Auditor (June 2006 - April 2010).
 
-## Selected Makers Academy Portfolio
+## Selected Makers Academy Software Portfolio
 
 | Project Repo | Description |
 | ------------ | ----------- |
